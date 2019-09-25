@@ -58,13 +58,13 @@
   dependencies:
     regenerator-runtime "^0.13.2"
 
-"@nebulario/microservice-blog-web@1.70.6-blog-home-prod":
-  version "1.70.6-blog-home-prod"
-  resolved "https://registry.yarnpkg.com/@nebulario/microservice-blog-web/-/microservice-blog-web-1.70.6-blog-home-prod.tgz#ad8e51aca61c391f0392cf1a754de228811d6a3d"
-  integrity sha512-lbqa8Vd1ckeJ7jQvEIJEw9Ttma1MQNBum2+NkJ4j4LB2uusPhb8rR2zVgI2yw3dcLXkTb2h6HYKV35aqgra0WQ==
+"@nebulario/microservice-blog-web@1.70.0-master":
+  version "1.70.0-master"
+  resolved "https://registry.yarnpkg.com/@nebulario/microservice-blog-web/-/microservice-blog-web-1.70.0-master.tgz#408e6cb1ac104dd24b04909098ff903d7203c99b"
+  integrity sha512-6dRhtMGzHGjM9jeRZVnOHwjaFOuPpwZ/08xFhHMT3hWmKy/JtmAeXXSyXvj6ypg3J20Pl79efoB06wsB3KS4lA==
   dependencies:
     "@apollo/react-hooks" "^3.1.0"
-    "@nebulario/microservice-layout" "1.70.1-blog-home-prod"
+    "@nebulario/microservice-layout" "1.70.2-master"
     apollo-boost "^0.4.4"
     apollo-cache-inmemory "^1.6.3"
     connected-react-router "^6.5.2"
@@ -81,10 +81,10 @@
     reactstrap "^8.0.1"
     redux "^4.0.4"
 
-"@nebulario/microservice-layout@1.70.1-blog-home-prod":
-  version "1.70.1-blog-home-prod"
-  resolved "https://registry.yarnpkg.com/@nebulario/microservice-layout/-/microservice-layout-1.70.1-blog-home-prod.tgz#8098027089237ad38412295779477dcb7d474197"
-  integrity sha512-6h+vue1aT2EbNKbQSqRBhxnPL76E57iZ2hD+bcojiD77pCo3WLrHttst+PvTzxvSZiOoYcv5ILIkXzKub4D3fg==
+"@nebulario/microservice-layout@1.70.2-master":
+  version "1.70.2-master"
+  resolved "https://registry.yarnpkg.com/@nebulario/microservice-layout/-/microservice-layout-1.70.2-master.tgz#04d69b7a601576b37c2b87aa03eedfd476de874b"
+  integrity sha512-ecHV1gwf7wMQ/vITdWhazq1tzshIuqZrW+ZQuhGTOifIE5XCKrIhhZyLG5x/V/QjN6RvNXkMGwwL2bP0EcZpSQ==
 
 "@types/node@>=6":
   version "12.7.5"
