@@ -58,10 +58,10 @@
   dependencies:
     regenerator-runtime "^0.13.2"
 
-"@nebulario/microservice-blog-web@1.70.0-config-upgrade-prod":
-  version "1.70.0-config-upgrade-prod"
-  resolved "https://registry.yarnpkg.com/@nebulario/microservice-blog-web/-/microservice-blog-web-1.70.0-config-upgrade-prod.tgz#2fbd391c6e29e0027aec42b40a5daff9d9a556f8"
-  integrity sha512-08avYUJAu+2zEWnR6a435UEEfDlusw/xIRXwtJIdoNUXM6Ksb+vnLRj9ny0pP8wVAVU9SJp+NQ6VY4DsV1TIaA==
+"@nebulario/microservice-blog-web@1.70.1-master":
+  version "1.70.1-master"
+  resolved "https://registry.yarnpkg.com/@nebulario/microservice-blog-web/-/microservice-blog-web-1.70.1-master.tgz#69941be5fecfe860be60069068de63701d211f8d"
+  integrity sha512-tq07IceTB53bSfX6EWh2sFAwLMpY+KxdzVYDy+uCbztO9XbJimPd0HlT5QNUW1PyHCs/xBTt6Q03PK9QC1t40w==
   dependencies:
     "@apollo/react-hooks" "^3.1.0"
     "@nebulario/microservice-layout" "1.70.2-master"
