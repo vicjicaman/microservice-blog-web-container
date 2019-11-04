@@ -3,6 +3,6 @@
   "description": "",
   "license": "MIT",
   "dependencies": {
-    "@nebulario/microservice-blog-web": "link:./../microservice-blog-web"
+    "@nebulario/microservice-blog-web": "1.70.0-email-validation-prod"
   }
 }
