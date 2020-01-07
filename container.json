@@ -1,9 +1,9 @@
 {
   "name": "repoflow/microservice-blog-web-container",
-  "version": "1.70.4-master",
+  "version": "1.70.5-master",
   "source": {
     "type": "npm",
     "fullname": "@nebulario/microservice-blog-web",
-    "version": "1.70.2-master"
+    "version": "1.70.3-master"
   }
 }
